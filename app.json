@@ -10,15 +10,15 @@
     "env": {
         "APP_ID": {
             "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
-            "value": "4464291"
+            "value": "7389220"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
-            "value": "1dde1cb551ed4f51034988414a199dbf"
+            "value": "20ea2b1b6dfea5bc78e6c51cfafaa9cc"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "2070003948:AAHMhDNE9BQRJbhuoOMpEIvfpKr8BcR8Gzc"
         },
         "LOG_CHANNEL": {
             "description": "Create a private group/channel. Add @missrose_bot and your bot + make admin. Do /id. Paste that here",
@@ -31,7 +31,7 @@
          },
         "MUST_JOIN": {
              "description": "Add username/id of a channel/group",
-              "value": "dondkdl"
+              "value": "DKBOTZ"
              
         },
         "DATABASE_URL": {
